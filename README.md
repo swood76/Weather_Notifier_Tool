@@ -10,12 +10,10 @@ The script retrieves forecast data from the OpenWeather API, parses JSON weather
 - Python
 - OpenWeather API
 - Twilio SMS API
-- requests
 
 ## Future Improvements
-- Integrate with embedded hardware (e.g., microcontroller or SBC) for standalone alerts
+- Integrate with low-power embedded hardware (e.g., Seeed XIAO ESP32, Nordic nRF BLE devices, or an SBC like Orange/Raspberry Pi) for standalone weather alert system
 - Add additional weather conditions (temperature extremes, wind alerts, etc.)
-- Improve notification formatting and scheduling
 - Add logging and error handling for long-term operation
 - Potential dashboard or IoT integration for real-time monitoring
 
