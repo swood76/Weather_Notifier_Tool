@@ -16,5 +16,6 @@ The script retrieves forecast data from the OpenWeather API, parses JSON weather
 - Add additional weather conditions (temperature extremes, wind alerts, etc.)
 - Add logging and error handling for long-term operation
 - Potential dashboard or IoT integration for real-time monitoring
+- Evolve this project toward a self-hosted “Weather as a Service” (WaaS) platform with continuous deployment, multi-location monitoring, and optional user-configurable alerts
 
 
